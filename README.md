@@ -60,11 +60,3 @@ The dataset contains transactional data between 2010 and 2011 for a UK-based non
 
 ---
 
-###  Outcomes
-
-* Clear customer segments identified for targeted marketing
-* Accurate predictive models for customer group membership and spend
-* Actionable insights on top spend drivers (quantity, price per item)
-
----
-
